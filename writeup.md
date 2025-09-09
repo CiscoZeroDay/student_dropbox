@@ -76,7 +76,7 @@ However, only <code>.zip</code> or <code>.gz</code> are allowed.
 
 Good job, teacher ! The server rejects it. I also tested with <code>.py </code>,<code>.php </code> etc ... all resulted in errors.
 
--   Uploading a <code>zip</code> , and <code>gz</code>, et y a pas erreur mais , file does not trigger an error, but nothing appears under <code>/projects</code>. Suspicious…
+-   Uploading a <code>zip</code> , and <code>gz</code>, et there isn't any error but , file does not trigger an error, but nothing appears under <code>/projects</code>. Suspicious…
 
 -   Time to try something more interesting : a <code>PHP reverse shell</code> et Before that, let’s prepare our listener : <code>nc -lvnp 4444</code>
 
